@@ -1,0 +1,19 @@
+body{
+    background-color: orange;
+    margin: 150px;
+}
+input{
+    padding: 15px 68px 30px;
+    background-color: antiquewhite;
+}
+.calculator{
+    height: 345px;
+    width: 320px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+button{
+    height: auto;
+    width: 70px;
+    margin: 3px;
+}
